@@ -6,5 +6,5 @@ The ODT model is a stochastic turbulence model that randomly selects an eddy siz
 This model simulates dry Rayleigh-Bénard convection with only temperature as its scalar field. To simulate temperature and water vapor, use moist-ODT whereas to simulate temperature, water vapor, and cloud droplets, use cloudy-ODT.
 
 # Contributions
-* Scott Wunsch and Alan Kerstein developed the dry ODT model. 
-* Mani Rajagopal modified the code to output eddy information and a temperature probability distribution. Also, included code to input and output at respective folder to run various experiments easily
+* **Scott Wunsch and Alan Kerstein** developed the dry ODT model. 
+* **Mani Rajagopal** modified the code to output eddy information and temperature probability distribution. Also, included is code to input and output in respective folders to run various experiments easily

@@ -7,7 +7,7 @@ This model simulates dry Rayleigh-Bénard convection with only temperature as it
 
 # Contributions
 * **Scott Wunsch and Alan Kerstein** developed the dry ODT model. 
-* **Mani Rajagopal** modified the code to output eddy information, scalar probability distribution, and evolution of domain statistics. Also included is code for input and output to the respective folders, and a random initial perturbation seed to easily run ensembles of experiments.
+* **Mani Rajagopal** modified the code to output eddy information, scalar probability distribution, and evolution of domain statistics. Also included is code for input and output to the respective folders, as well as a random initial perturbation seed (as command line argument) to run ensemble of experiments.
 
 # References
 Wunsch, S., & Kerstein, A. R. (2005). A stochastic model for high-Rayleigh-number convection. Journal of Fluid Mechanics, 528, 173-205.
